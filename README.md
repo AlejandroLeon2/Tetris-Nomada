@@ -23,11 +23,11 @@ Para compilar y ejecutar el juego, necesitas un compilador de C++. Sigue estos p
     ```
 3. Compila el juego:
     ```sh
-    g++ -o codigo Tetris.cpp
+    g++ -o codigo tetrispilas1.cpp
     ```
 4. Ejecuta el juego:
     ```sh
-    ./Tetris
+    ./tetrispilas1
     ```
 
 ## Cómo Jugar
@@ -37,7 +37,7 @@ Para compilar y ejecutar el juego, necesitas un compilador de C++. Sigue estos p
 - ¡Intenta lograr la mayor puntuación posible!
 
 ## Estructura del Proyecto
-- `Tetris.cpp`: El archivo principal que contiene la lógica del juego.
+- `tetrispilas1.cpp`: El archivo principal que contiene la lógica del juego.
 - `README.md`: Este archivo.
 
 ## Agradecimientos
